@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+// app is the root component => header, events, form, etc. Will be put into div in html
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
